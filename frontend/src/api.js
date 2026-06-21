@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://scaling-palm-tree-xp76pr96r6xcpgr9-8000.app.github.dev/api';
+const API_BASE_URL = 'https://portfolio-backend-bmsu.onrender.com/api';
 
 export const api = axios.create({
   baseURL: API_BASE_URL,
